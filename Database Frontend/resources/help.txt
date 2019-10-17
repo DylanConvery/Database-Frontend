@@ -1,0 +1,19 @@
+This application is intended to be used in collaboration
+with a fully licensed version of Microsoft Access 2016. 
+This applications intended purpose is to review, edit 
+and add data to the supplied database. It is dependant 
+on the supplied database and will cease to function in 
+the case that the database is lost. 
+
+This application has three different Modes that each have
+their own use.
+
+View Mode - View Mode is used for reviewing the data 
+contained within the database and allowsthe user to 
+switch between the two other modes available.
+
+New Mode - New Mode allows the user to add new entries to
+the database. 
+
+Edit Mode - Edit Mode is for making changes and 
+corrections to data already in the database. 
